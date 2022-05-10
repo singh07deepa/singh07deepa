@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @singh07deepa
 - 👀 I’m interested in ...python development
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...project on python
+- 💞️ I’m looking to collaborate on ...python project
 - 📫 How to reach me ...anytime
 
 <!---
